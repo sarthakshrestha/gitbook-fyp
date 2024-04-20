@@ -6,8 +6,6 @@ description: >-
 
 # 💻 Overview
 
-The project is available on Roboflow's platform: [https://universe.roboflow.com/college-fyp-ewmvi/license-plate-detection-system-nktef/dataset/3](https://universe.roboflow.com/college-fyp-ewmvi/license-plate-detection-system-nktef/dataset/3)
-
 ## Incorporation of AI for detecting License Plates & Character Recognition
 
 Artificial Intelligence encompasses Machine Learning and Deep Learning. Computer Vision belongs to a subset of Deep Learning. My final year project focuses on developing a License Plate Recognition system by integrating Artificial Intelligence.

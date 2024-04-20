@@ -2,7 +2,7 @@
 description: How I trained my model for Plate Detection and Character Recognition
 ---
 
-# Model Training & Deployment
+# Model Preparation & Training
 
 ### Gathering Dataset
 
@@ -22,15 +22,15 @@ The custom dataset that was made through Roboflow, I exported it into the format
 
 Google Colab's feature that was a roadblock was that you had to pay a certain fee to utilize their powerful cloud GPUs and even had a limitation for the time you could use the free-tier T4 GPU. I could train my model for an epoch of 50. More epochs can result to higher accuracy for the model, so I would consider that would b e a roadblock. Training locally through Anaconda was a limitation too as my machine was not powerful enough.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Character Models Training &#x26; Results</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Character Models Training &#x26; Results</p></figcaption></figure>
 
 ### Training & Post-training
 
 After training completion I moved to Deployment where discovering Streamlit came in very handy. Streamlit is a Python framework that helps to showcase the powers of AI/ML through a web-app. To preview and utilize the models that was made through training in Colab, I fiddled around with it and made few Python functions that would help to integrate into my main front end app developed on Streamilt.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Using the model that recognizes characters in Nepali LPs</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Using the model that recognizes characters in Nepali LPs</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Testing out the functions that helps in recognizing the characters within License Plates</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Testing out the functions that helps in recognizing the characters within License Plates</p></figcaption></figure>
 
 
 

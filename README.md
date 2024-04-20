@@ -4,7 +4,7 @@ description: >-
   a Final Year Project by Sarthak Shrestha
 ---
 
-# 💻 Overview
+# Overview
 
 ## Incorporation of AI for detecting License Plates & Character Recognition
 

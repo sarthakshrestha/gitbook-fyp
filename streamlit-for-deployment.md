@@ -16,3 +16,4 @@ After running locally on the machine, it can be used both on mobile and the web 
 
 <figure><img src=".gitbook/assets/IMG_5889.PNG" alt="" width="188"><figcaption><p>Sidebar on the mobile web-appp</p></figcaption></figure>
 
+The model will then be officially deployed on Streamlit's official deployment web app.

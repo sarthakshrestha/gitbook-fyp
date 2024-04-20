@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 Overview](README.md)
+* [Overview](README.md)
 * [Learning Process](learning-process.md)
 * [Model Preparation & Training](model-preparation-and-training.md)
 * [Methodology & Limitations](methodology-and-limitations.md)

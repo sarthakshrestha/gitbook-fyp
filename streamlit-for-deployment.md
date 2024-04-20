@@ -6,7 +6,7 @@ description: Usage of Roboflow inference to a Streamlit for Usage and Availabili
 
 The post models were put into Streamlit which is a Python Framework that helps in deploying and showcasing ML technologies. For this instance I have utilized it for creating the AI based license plate detection system.&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>File Structure of the Streamlit app</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>File Structure of the Streamlit app</p></figcaption></figure>
 
 After running locally on the machine, it can be used both on mobile and the web as well.
 
@@ -21,6 +21,10 @@ The model will then be officially deployed on Streamlit's official deployment we
 Preparing for deployment through: share.streamlit.io
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-20 at 7.18.35 PM.png" alt=""><figcaption><p>Added App for deployment</p></figcaption></figure>
+
+Trying to deploy the app:
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 

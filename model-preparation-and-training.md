@@ -22,7 +22,7 @@ The custom dataset that was made through Roboflow, I exported it into the format
 
 Google Colab's feature that was a roadblock was that you had to pay a certain fee to utilize their powerful cloud GPUs and even had a limitation for the time you could use the free-tier T4 GPU. I could train my model for an epoch of 50. More epochs can result to higher accuracy for the model, so I would consider that would b e a roadblock. Training locally through Anaconda was a limitation too as my machine was not powerful enough.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Character Models Training &#x26; Results</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Character Models Training &#x26; Results</p></figcaption></figure>
 
 ### Training & Post-training
 

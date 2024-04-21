@@ -26,7 +26,7 @@ Trying to deploy the app:
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+Successful deployment on the second try by fixing dependencies and error:
 
-
-
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>Voila, and finally the model is deployed</p></figcaption></figure>
 

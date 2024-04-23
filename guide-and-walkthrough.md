@@ -6,7 +6,7 @@ description: Guide for uploading images and testing purposes
 
 1. Visit the website on sarthakshrestha.streamilt.app
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Home Page while accessing the website</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Home Page while accessing the website</p></figcaption></figure>
 
 2. Details of the app
 

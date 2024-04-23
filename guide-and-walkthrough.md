@@ -31,3 +31,8 @@ description: Guide for uploading images and testing purposes
 7. After Hitting the Detect Button
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-21 at 10.39.39 PM.png" alt=""><figcaption><p>Detected License Plates and Recognized Characters</p></figcaption></figure>
+
+#### For mobile:
+
+You can visit the website sarthakshresthafyp.streamlit.app on your mobile phone as well, the steps are the same for the mobile web-app as well. The difference is that the mobile is responsive and more scaled down.&#x20;
+

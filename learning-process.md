@@ -12,7 +12,7 @@ Learned the relevance of Computer Vision and Machine Learning through looking at
 
 Learned the importance of Tensors and how computers learn how an object is detected. I learned about Neural Networks and the importance of Computer Vision in this day and age.
 
-Watched YouTube videos surrounding the field of Neural Networks. One of my key favorite was the Neural Network Chapters by 1Blue1Brown.
+Watched YouTube videos surrounding the field of Neural Networks. One of my key favorite was the Neural Network Chapters by 3Blue1Brown.
 
 #### Deep learning with PyTorch
 
